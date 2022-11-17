@@ -10,14 +10,14 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: 'list' }}__item" style="clear: both;">
+<div class="{{ include.type | default: 'list' }}__item" style="clear: both; margin-top: 1em;">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% elsif include.type == "list" and teaser %}
-      <div style="float: left; max-width:200px; margin-right: 1em; margin-top: 1em;">
+      <div style="float: left; max-width:200px; margin-right: 1em;">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}

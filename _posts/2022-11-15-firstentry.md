@@ -9,3 +9,5 @@ header:
 ---
 
 This entry has a teaser image that will show in listing.
+
+![coding](assets/coding.jpg)

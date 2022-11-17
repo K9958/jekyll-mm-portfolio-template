@@ -8,4 +8,4 @@ header:
   teaser: assets/coding.jpg
 ---
 
-This is a portfolio entry one
+This entry has a teaser image that will show in listing.

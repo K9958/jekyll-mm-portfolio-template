@@ -40,5 +40,6 @@ By default, newest projects will show first.
 This site is based on Minimal Mistakes Jekyll theme and Jekyll for building the site. They have their own customization tips on their own sites, be sure to check them out: 
 
 * [Minimal Mistakes Pages](https://mmistakes.github.io/minimal-mistakes/) and [GitHub Repository](https://github.com/mmistakes/minimal-mistakes)
+  * Check out Minimal Mistakes [Configuration Guide](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
   * Check also Minimal Mistakes [Sample Posts](https://mmistakes.github.io/minimal-mistakes/year-archive/) to give an idea what can be customized and how. The customized page source code/markdown files are in the MM repository.
 * [Jekyll Documentation](https://jekyllrb.com/docs/pages/)

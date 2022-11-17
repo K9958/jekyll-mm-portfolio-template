@@ -9,7 +9,7 @@ A Portfolio template using Jekyll and Minimal Mistakes theme for Jekyll, and Git
 YOUR_GITHUB_USERNAME.github.io
 ```
 
-#### 2. Edit `_config.yml` file to edit your details. At least edit the following:
+### 2. Edit `_config.yml` file to edit your details. At least edit the following:
 
 * Edit site `title` at line 19.
 * Edit site `name` at line 22.
@@ -18,17 +18,17 @@ YOUR_GITHUB_USERNAME.github.io
 * Either change your image path inside the `author:` code block or change the `portrait.jpg` image to your image
 * Edit Social Links from Line 115 onwards. Lines with uncommented URL will show in your profile
 
-#### 3. Edit the main page
+### 3. Edit the main page
 
 * To edit the main page, edit `index.markdown` file in the root folder of this repository.
 
-#### 4. Add your projects to your portfolio
+### 4. Add your projects to your portfolio
 
 * Add a markdown (`.md`) file to `_posts` folder with name format: `YYYY-MM-DD-CONTENT_NAME.md` You can change the template files in the folder or just delete them.
 
 By default, newest projects will show first.
 
-#### 5. Publish your website!
+### 5. Publish your website!
 
 * Go to repository **Settings** -> **Pages** -> **Build and deployment**. 
 * Select option `Deploy from a branch`

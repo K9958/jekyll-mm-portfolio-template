@@ -279,9 +279,9 @@ compress_html:
 
 # Defaults
 defaults:
-  # _portfolio
+  # _posts
   - scope:
-      path: "_portfolio"
+      path: ""
       type: posts
     values:
       layout: single

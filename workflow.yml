@@ -1,6 +1,8 @@
 # # THIS FILE IS FOR WHEN YOU NEED TO USE CUSTOM WORKFLOW IF YOU WANT TO USE GITHUB NON-WHITELISTED JEKYLL-PLUGINS
 # # ALL WHITELISTED JEKYLL PLUGINS ARE HERE: https://pages.github.com/versions/
 
+# TO USE THIS WORKFLOW, MOVE THIS FILE ACCORDINGLY: ".github/workflows/workflow.yml"
+
 # on:
 #   # Runs on pushes targeting the default branch
 #   push:

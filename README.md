@@ -18,13 +18,18 @@ YOUR_GITHUB_USERNAME.github.io
 * Either change your image path inside the `author:` code block or change the `portrait.jpg` image to your image
 * Edit Social Links from Line 115 onwards. Lines with uncommented URL will show in your profile
 
-#### 3. Add your projects to your portfolio
+#### 3. Edit the main page
+
+* To edit the main page, edit `index.markdown` file in the root folder of this repository.
+
+#### 4. Add your projects to your portfolio
 
 * Add a markdown (`.md`) file to `_posts` folder with name format: `YYYY-MM-DD-CONTENT_NAME.md` You can change the template files in the folder or just delete them.
 
 By default, newest projects will show first.
 
-#### 4. Publish your website!
+#### 5. Publish your website!
+
 * Go to repository **Settings** -> **Pages** -> **Build and deployment**. 
 * Select option `Deploy from a branch`
 * As branch, select `main` and folder as `/(root)`

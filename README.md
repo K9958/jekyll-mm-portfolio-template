@@ -1,7 +1,7 @@
 # Readme
 This repository (`jekyll-mm-portfolio-template`) is a very-fast-to-setup portfolio template using *Jekyll*, very customizable *Minimal Mistakes theme for Jekyll*, and *GitHub Pages*. You can see the link below to see what it looks like.
 
-Template as Pages: [https://k9958.github.io/jekyll-mm-portfolio-template/](https://k9958.github.io/jekyll-mm-portfolio-template/)
+Template as Pages: [https://k9958.github.io/](https://k9958.github.io/)
 
 # How to use this repository
 
